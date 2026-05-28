@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800">
+<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#063f23"/><stop offset="1" stop-color="#172020"/></linearGradient></defs>
+<rect width="1200" height="800" fill="url(#g)"/>
+<circle cx="600" cy="310" r="120" fill="none" stroke="#d8c27e" stroke-width="18"/>
+<path d="M480 430h240l-35 135H515z" fill="#d8c27e" opacity=".85"/>
+<text x="600" y="645" fill="white" font-family="Arial" font-size="54" font-weight="700" text-anchor="middle">Orden</text>
+<text x="600" y="705" fill="#dbe8df" font-family="Arial" font-size="30" text-anchor="middle">Hier später ein Foto vom Orden hochladen</text>
+</svg>
